@@ -1,0 +1,12 @@
+RHSA-2011:1384
+definitions/oval/definitions/RHEL6/rhel-6-supplementary.oval.xml:    <title>RHSA-2011:1384: java-1.6.0-sun security update (Critical)</title>
+definitions/oval/definitions/RHEL6/rhel-6-supplementary.oval.xml:    <reference ref_id="RHSA-2011:1384" ref_url="https://access.redhat.com/errata/RHSA-2011:1384" source="RHSA"/>
+
+RHSA-2012:0116
+definitions/oval/definitions/RHEL6/rhel-6.1-eus.oval.xml:    <title>RHSA-2012:0116: kernel security and bug fix update (Moderate)</title>
+definitions/oval/definitions/RHEL6/rhel-6.1-eus.oval.xml:    <reference ref_id="RHSA-2012:0116" ref_url="https://access.redhat.com/errata/RHSA-2012:0116" source="RHSA"/>
+
+RHSA-2018:2282
+definitions/oval/definitions/RHEL6/rhel-6-supplementary.oval.xml:    <title>RHSA-2018:2282: chromium-browser security update (Important)</title>
+definitions/oval/definitions/RHEL6/rhel-6-supplementary.oval.xml:    <reference ref_id="RHSA-2018:2282" ref_url="https://access.redhat.com/errata/RHSA-2018:2282" source="RHSA"/>
+
